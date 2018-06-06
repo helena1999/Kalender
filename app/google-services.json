@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1078820479173",
+    "firebase_url": "https://kalendarapp-6bf6b.firebaseio.com",
+    "project_id": "kalendarapp-6bf6b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078820479173:android:08c51bcc070ce022",
+        "android_client_info": {
+          "package_name": "com.example.helena.kalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078820479173-nmc3i5hig715u26og918td1fehsktck2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1078820479173-nmc3i5hig715u26og918td1fehsktck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATf6Lbh1nGf9MYQcbb3OLaUPUzG8-FqYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

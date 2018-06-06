@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:kalendar="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_threedays"
+        android:icon="@drawable/threedaysicon"
+        android:title="Test3"
+        kalendar:showAsAction="always" />
+    <item
+        android:id="@+id/action_today"
+        android:icon="@drawable/one_day"
+        android:title="Test1"
+        kalendar:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/action_addevent"
+        android:icon="@android:drawable/ic_menu_add"
+        kalendar:showAsAction="always"
+        android:title="Test2"
+        />
+</menu>

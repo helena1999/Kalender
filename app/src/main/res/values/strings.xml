@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalender</string>
+    <string name="event">Event name</string>
+    <string name="location">Event location</string>
+    <string name="descripion">Event description</string>
+    <string name="all_day">All day</string>
+    <string name="begin">Event begin</string>
+    <string name="end">Event end</string>
+    <string name="save">Save</string>
+    <string name="login">Enter without an account</string>
+    <string name="login_google">Log in with Google Account</string>
+    <string name="date">Date</string>
+    <string name="add">Add event</string>
+    <string name="time">Time</string>
+    <string name="delete">Delete event</string>
+    <string name="edit">Edit event</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out">Signed out</string>
+</resources>

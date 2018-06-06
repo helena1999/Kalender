@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.helena.kalender.LoginActivity">
+
+    <Button
+        android:id="@+id/button_noauth"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="101dp"
+        android:background="@drawable/buttons"
+        android:text="@string/login"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="14dp" />
+
+    <Button
+        android:id="@+id/button_google"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="159dp"
+        android:text="@string/login_google"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="14dp"
+        android:background="@drawable/buttons"/>
+
+
+
+    <ImageView
+        android:id="@+id/calendar_icon"
+        android:layout_width="152dp"
+        android:layout_height="146dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:src="@drawable/calendar_ic" />
+</RelativeLayout>
